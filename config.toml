@@ -32,4 +32,7 @@ socials = [
     { name = "github", url = "https://github.com/Adithya2907", icon = "github" },
 ]
 
-comment = true
+mathjax = true
+mathjax_dollar_inline_enable = true
+
+comment = false
